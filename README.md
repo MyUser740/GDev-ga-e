@@ -1,4 +1,4 @@
-# GDev-ga-e
+# GDev-game
 
 ## Overview
 Platformer is a game wiritten in Gdevelop. This game contains players who have to complete obstacles and avoid enemies
